@@ -60,3 +60,5 @@ Here’s how you might interact with the script:
 ```plaintext
 Enter the message to send (or 'settings' to modify settings): Hello, world!
 [14:23:45] Message sent successfully
+
+(https://guns.lol/lolobrndvr)
