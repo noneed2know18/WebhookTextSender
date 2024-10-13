@@ -2,7 +2,7 @@
 
 **WebhookTextSender** is a Python script for sending text messages through Discord webhooks. It provides a straightforward command-line interface to manage webhook settings and send messages, with options for customization and feedback.
 
-(https://guns.lol/lolobrndvr)
+(https://guns.lol/noneed2know)
 
 ## Features
 
